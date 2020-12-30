@@ -1,4 +1,7 @@
 .DS_Store
+.idea/
+.vscode/
 */.ipynb_checkpoints/
 */catboost_info/
 data/Alice-in-Wonderland.txt
+data/Cats_and_Dogs
